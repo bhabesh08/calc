@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Adder", page_icon="➕", layout="left")
+st.set_page_config(page_title="Adder", page_icon="➕", layout="leftalign")
 st.title("Add Two Numbers")
 
 with st.form("adder_form"):
